@@ -192,6 +192,7 @@ input[type=submit]:hover{
 
 /* About me */
 
+
 .about-container{
   height: 100vh;
 }
@@ -208,6 +209,7 @@ input[type=submit]:hover{
 
 #about-me-heading{
   text-align: center;
+  margin-top: 5px;
 }
 
 .about-me-content{
@@ -225,6 +227,7 @@ input[type=submit]:hover{
   width: 200px;
 }
 
+
 /* Projects */
 #projects-heading{
   text-align: center;
@@ -234,7 +237,7 @@ input[type=submit]:hover{
   justify-content: center;
 }
 .projects-container{
-  height: 90vh;
+  height: 89.3vh;
   width: 100vw;
   display: flex;
   justify-content: center;
