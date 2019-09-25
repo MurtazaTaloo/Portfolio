@@ -1,6 +1,6 @@
 :root {
-  --theme-color:rgb(122, 37, 37)
-  /* --theme-color:rgb(255,127,80) ; */
+  /* --theme-color:rgb(122, 37, 37) */
+  --theme-color:rgb(255,127,80) ;
 }
 
 /* @import url('https://fonts.googleapis.com/css?family=Audiowide|Play|Vollkorn+SC&display=swap'); */
@@ -56,11 +56,9 @@ body{
   font-family: 'Audiowide', cursive;
   color: var(--theme-color);
   margin-left: 15px;
-  /* margin-top: 150px; */
 }
 .des-box{
   height: 50%;
-  /* width: 200px; */
   display: flex;
   justify-content:flex-end;
   align-items: center;
@@ -70,8 +68,6 @@ body{
 #content-des{
   font-family: 'Audiowide', cursive;
   color: rgb(241, 237, 237);
-  /* margin-left: 175px; */
-  /* margin-top: 140px; */
   float: right;
   margin-right: 2px;
 }
@@ -158,11 +154,9 @@ input{
   margin: 10px 0px;
   width: 500px;
   height: 25px;
-  /* background: transparent; */
 }
 textarea{
   resize: none;
-  /* background: transparent; */
 }
 
 input[type=submit] {
@@ -201,9 +195,6 @@ input[type=submit]:hover{
   justify-content: space-between;
   overflow: scroll;
 }
-/* .nav-about-me{
-  margin-top: 220px;
-} */
 
 .about-me a{
   text-decoration: none;
@@ -221,11 +212,13 @@ input[type=submit]:hover{
   display: flex;
   justify-content: center;
   align-items: center;
-  /* flex-wrap: wrap; */
   justify-content: space-around;
   flex-direction: row;
 }
 
+#about-me-text{
+  font-size: 22px;
+}
 
 #beard{
   height: 200px;
@@ -249,7 +242,6 @@ input[type=submit]:hover{
   align-items: center;
   justify-content: space-around;
   flex-wrap: wrap;
-  /* overflow: auto; */
 }
 .terminal-app{
   margin: 7.7px 0;
@@ -261,7 +253,6 @@ input[type=submit]:hover{
   justify-content: center;
   align-items: center;
   justify-content: space-around;
-  /* border: 1px solid black; */
   border-radius: 5px;
   box-shadow: 3px 21px 30px -12px rgba(0,0,0,0.75);
   background: #FDFDFD;
@@ -276,7 +267,6 @@ input[type=submit]:hover{
   justify-content: center;
   align-items: center;
   justify-content: space-around;
-  /* border: 1px solid black; */
   border-radius: 5px;
   box-shadow: 3px 21px 30px -12px rgba(0,0,0,0.75);
   background: #FDFDFD;
@@ -340,12 +330,10 @@ input[type=submit]:hover{
 
 /* blog-posts */
 .blog-post{
-  /* height: 100vh; */
   margin: 0 auto;
   width: 60vw;
   display: flex;
   flex-direction: column;
-  /* justify-content: center; */
   align-items: center;
   margin-top: 5px;
 }
