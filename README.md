@@ -1,8 +1,10 @@
 # PORTFOLIO WEBSITE
 
 ## (URL) TO THE WEBSITE:
+https://murtazataloo.netlify.com/
 
 ## GITHUB REPSITORY LINK FOR THE WEBSITE:
+https://github.com/MurtazaTaloo/Portfolio
 
 ## DESCRIPTION OF THE PORTFOLIO WEBSITE:
 
