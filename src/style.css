@@ -282,14 +282,17 @@ input[type="submit"]:hover {
   background: #fdfdfd;
 }
 .project-pic {
-  height: 55%;
+  height: 50%;
   width: 90%;
 }
 .project-card:hover {
   transform: scale(1.02);
 }
 .project-text {
+  height: 50%;
   text-align: center;
+  line-height: 1.5;
+  overflow: scroll;
 }
 .git-link {
   text-decoration: none;
