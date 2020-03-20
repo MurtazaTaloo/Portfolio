@@ -135,6 +135,10 @@ footer {
 }
 
 /* contact page */
+
+.contact-heading {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
 .form-container {
   height: 70vh;
   width: 100vw;
@@ -202,6 +206,7 @@ input[type="submit"]:hover {
 }
 
 #about-me-heading {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   text-align: center;
   margin-top: 0;
 }
@@ -216,8 +221,8 @@ input[type="submit"]:hover {
 }
 
 #beard {
-  height: 200px;
-  width: 200px;
+  height: 50%;
+  width: 30%;
 }
 
 /* Projects */
@@ -248,6 +253,7 @@ input[type="submit"]:hover {
 }
 
 #projects-heading {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   text-align: center;
   display: flex;
   width: 100%;
